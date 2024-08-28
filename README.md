@@ -1,4 +1,4 @@
-# Redis Cache Record Management
+# Simple Redis Cache Record Management
 
 ## Prerequisites
 
